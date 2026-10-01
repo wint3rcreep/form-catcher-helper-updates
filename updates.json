@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "callibri-form-catcher@local": {
+      "updates": [
+        {
+          "version": "3.10.4",
+          "update_link": "https://raw.githubusercontent.com/wint3rcreep/form-catcher-helper-updates/main/releases/form-catcher-helper-3.10.4.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "115.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
