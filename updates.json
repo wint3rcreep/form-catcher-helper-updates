@@ -3,8 +3,8 @@
     "callibri-form-catcher@local": {
       "updates": [
         {
-          "version": "3.11.0",
-          "update_link": "https://raw.githubusercontent.com/wint3rcreep/form-catcher-helper-updates/main/releases/form-catcher-helper-3.11.0.xpi",
+          "version": "3.12.0",
+          "update_link": "https://raw.githubusercontent.com/wint3rcreep/form-catcher-helper-updates/main/releases/form-catcher-helper-3.12.0.xpi",
           "applications": {
             "gecko": {
               "strict_min_version": "115.0"
